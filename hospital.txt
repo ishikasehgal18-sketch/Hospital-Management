@@ -1,0 +1,5 @@
+PATIENTS
+ID: P1, Name: A, Age: 25, Gender: Male, Disease: Flu
+
+APPOINTMENTS
+Patient: A | Doctor: Dr. Smith (Heart Specialist) | Date: 2026-06-25
